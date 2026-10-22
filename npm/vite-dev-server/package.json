@@ -24,7 +24,7 @@
     "cross-env": "7.0.3",
     "dedent": "^0.7.0",
     "vite-8": "npm:vite@^8.0.9",
-    "vitest": "3.2.4"
+    "vitest": "5.0.5"
   },
   "peerDependencies": {
     "cypress": ">=16.0.0",

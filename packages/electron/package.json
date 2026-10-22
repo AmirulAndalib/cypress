@@ -29,7 +29,7 @@
     "eslint": "^9.31.0",
     "execa": "4.1.0",
     "systeminformation": "^5.27.7",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.5"
   },
   "files": [
     "dist",

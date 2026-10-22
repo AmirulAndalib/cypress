@@ -43,7 +43,7 @@
   "devDependencies": {
     "@packages/eslint-config": "0.0.0-development",
     "eslint": "^9.31.0",
-    "vitest": "^3.2.4",
+    "vitest": "^5.0.5",
     "typescript": "~5.4.5"
   },
   "peerDependencies": {

@@ -18,11 +18,11 @@
   "dependencies": {
     "@packages/packherd-require": "0.0.0-development",
     "debug": "^4.3.4",
-    "source-map-js": "^0.6.2"
+    "source-map-js": "^1.2.2"
   },
   "devDependencies": {
     "@tooling/packherd": "0.0.0-development",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.5"
   },
   "files": [
     "dist",
