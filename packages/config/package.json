@@ -47,7 +47,7 @@
     "babel-plugin-tester": "^10.1.0",
     "rimraf": "6.1.1",
     "typescript": "~5.4.5",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.5"
   },
   "files": [
     "cjs/*",
